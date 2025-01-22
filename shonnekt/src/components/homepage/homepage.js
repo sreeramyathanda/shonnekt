@@ -47,7 +47,7 @@ function Homepage() {
             <img src={BackImg} alt="" />
           </figure>
           <div className="text-area">
-            <h1 className="main-title">Shonnekt</h1>
+            <h1 className="main-title">shonnekt</h1>
             <p>Sell and shop from anywhere in India with just a click – Shonnekt makes it easy!</p>
             <form>
               <input
